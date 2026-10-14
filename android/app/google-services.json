@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "107933013652",
+    "project_id": "datamahasiswa-24811",
+    "storage_bucket": "datamahasiswa-24811.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:107933013652:android:d2d5fc6d0dde186ce54681",
+        "android_client_info": {
+          "package_name": "com.unnga.data_mahasiswa_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtqZJ4Q7RKmrn8S2QLgoJPuziYj1O6JaA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
